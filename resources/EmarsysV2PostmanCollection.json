@@ -5416,7 +5416,7 @@
 								"delete"
 							]
 						},
-						"description": "Deletes a single key from the keyring.\n\n**Note:** This feature is in the pilot phase and currently available for a limited number of clients only. If you are interested in participating, contact Emarsys support.\n\n**Important:** Access to administrative endpoints is restricted. If you need access, contact Emarsys support."
+						"description": "Deletes a single TEST key from the keyring.\n\n**Note:** This feature is in the pilot phase and currently available for a limited number of clients only. If you are interested in participating, contact Emarsys support.\n\n**Important:** Access to administrative endpoints is restricted. If you need access, contact Emarsys support."
 					},
 					"response": []
 				}
